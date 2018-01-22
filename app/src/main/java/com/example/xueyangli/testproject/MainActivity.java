@@ -28,6 +28,7 @@ public class MainActivity extends AppCompatActivity {
         });
 
         int a = 2;
+        int c = a + 1;
     }
 
     @Override
